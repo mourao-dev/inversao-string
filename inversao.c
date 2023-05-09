@@ -11,7 +11,7 @@ int main (void){
 	
 	for (int i = t;i >= 0; i-- ){
 		
-		printf("%c", palavra[i]);
+		printf("%c\n", palavra[i]);
 		
 		}
 	
